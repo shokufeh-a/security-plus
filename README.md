@@ -1,5 +1,4 @@
 # security-plus
 Security Plus Exercises
 
-Shokufeh Amanollahi
-Emdad Khodro Iran
+Shokufeh Amanollahi / Emdad Khodro Iran
